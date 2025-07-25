@@ -1,2 +1,2 @@
 # deepresarch-reports
-DeepResarchにて調査した結果を補完するRepositoryです
+DeepResarchにて調査した結果を保管するRepositoryです
